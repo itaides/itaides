@@ -8,7 +8,7 @@
   - Database: MongoDB, MySQL
   - DevOps: Docker, Kubernetes
   - Version Control: Git, GitHub
-- 📫 You can reach me through [insert your preferred contact method].
+- 📫 You can reach me through Linkedin.
 
 <!---
 itaides/itaides is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. You can click the Preview link to take a look at your changes.
