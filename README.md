@@ -1,15 +1,25 @@
-- 👋 Hi, I'm Itai! 
-- 👀 I'm passionate about web development, specializing in WordPress solutions and cutting-edge technologies.
-- 🌱 I'm currently enhancing my skills in full-stack development, with a focus on technologies like Next.js.
-- 💞️ I'm open to collaboration on innovative projects, especially those related to web development and design.
-- 🚀 My skills include:
-  - Frontend: HTML, CSS, JavaScript, React, Next.js.
-  - Backend: PHP, Node.js, Express, Django
-  - Database: MongoDB, MySQL
-  - DevOps: Docker, Kubernetes
-  - Version Control: Git, GitHub
-- 📫 You can reach me through Linkedin.
+# 👋 Hi, I'm Itai!
 
-<!---
-itaides/itaides is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. You can click the Preview link to take a look at your changes.
---->
+## 🚀 Full Stack Developer
+
+Experienced Full Stack Developer specializing in modern JavaScript technologies and scalable web applications. I focus on creating robust solutions that bridge frontend elegance with backend efficiency.
+
+## 💻 Tech Stack
+
+**Frontend:** React, Next.js, Vue.js, TypeScript, HTML/CSS  
+**Backend:** Node.js, Express, Python, Django, GraphQL  
+**Database:** MongoDB, MySQL, PostgreSQL  
+**AI/ML:** LangChain, LangGraph, Vector Databases  
+**DevOps:** Docker, Kubernetes, CI/CD, Git  
+
+## 🌱 Currently Learning
+
+Enhancing my skills in system architecture, AI integration, and emerging full-stack technologies.
+
+## 💞️ Open to Collaborate
+
+Looking to work on innovative web applications, AI-driven solutions, and impactful open-source projects.
+
+## 📫 Connect
+
+Reach out on [LinkedIn]([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/itai-ben-zeev-ar/)!
