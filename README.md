@@ -22,4 +22,4 @@ Looking to work on innovative web applications, AI-driven solutions, and impactf
 
 ## 📫 Connect
 
-Reach out on [LinkedIn]([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/itai-ben-zeev-ar/)!
+Reach out on [LinkedIn]([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/itai-ben-zeev-ar/))!
