@@ -2,32 +2,34 @@
 
 ## 🚀 About Me
 
-Experienced Full Stack Developer with a proven track record in delivering robust web applications and software solutions. I specialize in modern JavaScript technologies, creating responsive, user-centric applications that drive business value. My expertise spans from crafting intuitive frontends to building scalable backend architectures, with a focus on analyzing system components to improve efficiency, scalability, and stability.
+Senior Full Stack Developer who builds and ships production SaaS products end-to-end. I take ideas from architecture to live users — designing APIs, writing the frontend and backend, setting up CI/CD, and deploying to production. Creator of Eventimio, an AI-powered event management platform with facial recognition serving real customers on edge network.
 
 ## 💻 Technical Expertise
 
-- **Frontend Development:** React, Next.js, Vue.js, TypeScript, HTML5, CSS3, JavaScript (ES6+)
-- **Backend Development:** Node.js, Express, Python, Django, GraphQL, RESTful APIs
-- **Database Systems:** MongoDB, MySQL, PostgreSQL, Redis
-- **AI Integration:** LangChain, LangGraph, Vector Databases, LLM Technologies
-- **DevOps & Tools:** Docker, Kubernetes, CI/CD, Git/GitHub
-- **Architecture:** API Design, Microservices, System Architecture, Performance Optimization
+- **Languages & Runtimes:** TypeScript, JavaScript, Go, Python, Node.js, Cloudflare Workers
+- **Frontend:** React, Next.js, Vue, Astro
+- **Backend & APIs:** Go, Hono, Express, GraphQL, REST
+- **Data:** PostgreSQL, Drizzle ORM, Redis, MongoDB, vector databases
+- **Infrastructure:**  AWS, Docker, CI/CD
+- **AI & ML:** LangChain, LangGraph, LLM integration, AWS bedrock, computer vision
+
+## 🔨 Featured Project
+
+**Eventimio** — AI-Powered Event Management Platform
+- Built and shipped the full product solo: API, database, storage, auth, multiple frontends
+- Facial recognition pipeline — guests find their photos instantly across thousands of images
 
 ## 🌱 Currently Focused On
 
-- Advanced system architecture and design patterns
-- AI-driven development tools and LLM integration
-- Emerging full-stack technologies and best practices
+- Building production-grade applications
+- Edge-native and serverless architectures
+- Shipping high-quality, well-tested code at scale
 
 ## 💞️ Open to Collaborate
 
-I'm looking to collaborate on innovative projects involving complex web applications, AI-driven solutions, and impactful software that pushes technological boundaries.
+Looking to work on products that ship to real users — web platforms, AI-powered tools, and software where quality and delivery speed both matter.
 
 ## 📫 Let's Connect
 
 Reach me on [LinkedIn](https://www.linkedin.com/in/itai-ben-zeev-ar/)
 
-<!---
-itaides/itaides is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
