@@ -1,35 +1,56 @@
-# 👋 Hi, I'm Itai!
+<div align="center">
 
-## 🚀 About Me
+# Itai Ben Zeev
 
-Senior Full Stack Developer who builds and ships production SaaS products end-to-end. I take ideas from architecture to live users — designing APIs, writing the frontend and backend, setting up CI/CD, and deploying to production. Creator of Eventimio, an AI-powered event management platform with facial recognition serving real customers on edge network.
+**Full-Stack Developer & AI Architect · 9+ years shipping products**
 
-## 💻 Technical Expertise
+React · Go · Node.js · TypeScript · LLMs & vector search
 
-- **Languages & Runtimes:** TypeScript, JavaScript, Go, Python, Node.js, Cloudflare Workers
-- **Frontend:** React, Next.js, Vue, Astro
-- **Backend & APIs:** Go, Hono, Express, GraphQL, REST
-- **Data:** PostgreSQL, Drizzle ORM, Redis, MongoDB, vector databases
-- **Infrastructure:**  AWS, Docker, CI/CD
-- **AI & ML:** LangChain, LangGraph, LLM integration, AWS bedrock, computer vision
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itai-ben-zeev-ar/)
+[![Eventimio](https://img.shields.io/badge/eventimio.ai-0a0a0a?style=for-the-badge&logo=safari&logoColor=white)](https://eventimio.ai)
 
-## 🔨 Featured Project
+</div>
 
-**Eventimio** — AI-Powered Event Management Platform
-- Built and shipped the full product solo: API, database, storage, auth, multiple frontends
-- Facial recognition pipeline — guests find their photos instantly across thousands of images
+---
 
-## 🌱 Currently Focused On
+Hi 👋 I'm Itai, a full-stack engineer working across React, Go and Node.js, and bringing LLM features and vector search into production systems. On the side I built [**Eventimio**](https://eventimio.ai) end to end, an AI event platform where guests find their photos with face recognition. I write on [LinkedIn](https://www.linkedin.com/in/itai-ben-zeev-ar/) about AI dev tooling and cutting token costs. Based in northern Israel, usually on a trail ⛰️ (burning calories, not tokens).
 
-- Building production-grade applications
-- Edge-native and serverless architectures
-- Shipping high-quality, well-tested code at scale
+## Open Source
 
-## 💞️ Open to Collaborate
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Looking to work on products that ship to real users — web platforms, AI-powered tools, and software where quality and delivery speed both matter.
+### [EmDash CMS](https://github.com/emdash-cms/emdash)
 
-## 📫 Let's Connect
+The Astro-native TypeScript CMS on Cloudflare, the spiritual successor to WordPress. I contribute across core and admin:
 
-Reach me on [LinkedIn](https://www.linkedin.com/in/itai-ben-zeev-ar/)
+- [Plugin route errors](https://github.com/emdash-cms/emdash/pull/3602) now reach the client
+- [Date localization](https://github.com/emdash-cms/emdash/pull/3292) in the admin
+- [Hebrew translations](https://github.com/emdash-cms/emdash/pull/3293)
 
+[All my EmDash PRs →](https://github.com/emdash-cms/emdash/pulls?q=is%3Apr+author%3Aitaides)
+
+</td>
+<td width="50%" valign="top">
+
+### My tools
+
+- [**agent-readiness**](https://github.com/itaides/agent-readiness): checks whether a site is ready for AI agents, including localhost and staging. A CLI alternative to isitagentready.com.
+- [**freemius-mcp**](https://github.com/itaides/freemius-mcp): CLI + MCP server for the Freemius API
+- [**leanprompt**](https://github.com/itaides/leanprompt): zero-dependency prompt compression with TypeScript, Rust and Go SDKs
+
+</td>
+</tr>
+</table>
+
+## Stack
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflareworkers&logoColor=white)
