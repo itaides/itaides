@@ -23,13 +23,11 @@ Hi 👋 I'm Itai, a full-stack engineer working across React, Go and Node.js, an
 
 ### [EmDash CMS](https://github.com/emdash-cms/emdash)
 
-The Astro-native TypeScript CMS on Cloudflare, the spiritual successor to WordPress. I contribute across core and admin:
+The Astro-native TypeScript CMS on Cloudflare, the spiritual successor to WordPress.
 
-- [Plugin route errors](https://github.com/emdash-cms/emdash/pull/3602) now reach the client
-- [Date localization](https://github.com/emdash-cms/emdash/pull/3292) in the admin
-- [Hebrew translations](https://github.com/emdash-cms/emdash/pull/3293)
+Contributor across core and the admin app: the plugin platform, internationalization, and content editing UX.
 
-[All my EmDash PRs →](https://github.com/emdash-cms/emdash/pulls?q=is%3Apr+author%3Aitaides)
+[My EmDash PRs →](https://github.com/emdash-cms/emdash/pulls?q=is%3Apr+author%3Aitaides)
 
 </td>
 <td width="50%" valign="top">
