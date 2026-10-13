@@ -13,7 +13,8 @@ React · Go · Node.js · TypeScript · LLMs & vector search
 
 ---
 
-Hi 👋 I'm Itai, a full-stack engineer working across React, Go and Node.js, and bringing LLM features and vector search into production systems. On the side I built [**Eventimio**](https://eventimio.ai) end to end, an AI event platform where guests find their photos with face recognition. I write on [LinkedIn](https://www.linkedin.com/in/itai-ben-zeev-ar/) about AI dev tooling and cutting token costs. Based in northern Israel, usually on a trail ⛰️ (burning calories, not tokens).
+Hi 👋 I'm Itai, a full-stack engineer working across React, Go and Node.js, and bringing LLM features and vector search into production systems. On the side I built [**Eventimio**](https://eventimio.ai) end to end, an AI event platform where guests find their photos with face recognition. I write on [LinkedIn](https://www.linkedin.com/in/itai-ben-zeev-ar/) about AI dev tooling and cutting token costs.
+usually on a trail ⛰️ (burning calories, not tokens).
 
 ## Open Source
 
